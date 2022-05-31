@@ -1,9 +1,9 @@
 ### Olá, eu sou o Matheus👋
 
 
-- 🔭 Cursando Técnico em Desenvolvimento de Sistemas
-- 🌱 Estudando a linguagem JAVA
-- 👯 Contate-me no email: matheuscrp1@hotmail.com
+- 🔭 Cursando Técnico em Desenvolvimento de Sistemas.
+- 🌱 Desenvolvedor FullStack Web Jr.
+- 👯 Contate-me no email: matheuscrp1@hotmail.com.
 
 <div align="center">
   <a href="https://github.com/matheuscaua">
