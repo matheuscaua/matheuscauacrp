@@ -3,7 +3,7 @@
 
 - 🔭 Cursando Técnico em Desenvolvimento de Sistemas.
 - 🌱 Desenvolvedor Back End.
-- 👯 Contate-me no email: matheusdeleongrego@gmail.com.
+- 👯 Contate-me no email: matheuscrp1@hotmail.com
 
 
 <div align="center">
